@@ -134,7 +134,7 @@ Comandes disponibles:
   /model <nom>   - Canvia el model d'OpenAI utilitzat
 Exemples:
   /role Ets un professor de matemàtiques.
-  /model gpt-4o-mini
+  /model gpt-3.5-turbo
 """);
     }
 
